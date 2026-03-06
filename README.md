@@ -25,7 +25,7 @@
 
 > **PE Tools** lets you actively *research* PE files and processes.
 > `Process Viewer` and PE files `Editor`, `Dumper`, `Rebuilder`, `Comparator`, `Analyzer` are included.
-> **PE Tools** is an *oldschool reverse engineering tool* with a long history since `2002`.
+> **PE Tools** is an *oldschool reverse engineering tool* with a long history since `2002`. 
 > PE Tools was initially inspired by LordPE (yoda).
 
 ## Features
