@@ -30,7 +30,7 @@
 
 ## Features
 
-### PE Editor
+### PE Editor 
 
 - PE and DOS Headers **Editor**
 - PE Sections **Editor**
